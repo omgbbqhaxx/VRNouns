@@ -1,11 +1,21 @@
-.VRContH {
-    width: 1100px; padding: 20px;
+.VRCont0 {
+    max-width: 1000px; /* Set your desired maximum width */
+    margin-left: auto;
+    margin-right: auto;
     background-color: #D5D7E1;
 }
 
-.VRContO {
-    width: 1100px; 
+.VRCont1 {
+    max-width: 1000px; /* Set your desired maximum width */
+    margin-left: auto;
+    margin-right: auto;
     background-color: #D5D7E1;
+}
+
+.VRCont2 {
+    max-width: 1000px; /* Set your desired maximum width */
+    margin-left: auto;
+    margin-right: auto;
 }
 
 
@@ -25,7 +35,7 @@
 }
 
 .nimg {
-    width: 500px;
+    max-width: 500px;
 }
 
 #ff {
