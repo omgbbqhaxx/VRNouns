@@ -1,0 +1,52 @@
+.VRContH {
+    width: 1100px; padding: 20px;
+    background-color: #D5D7E1;
+}
+
+.VRContO {
+    width: 1100px; 
+    background-color: #D5D7E1;
+}
+
+
+.londrina {
+    font-family: 'Londrina Solid', cursive;
+}
+
+
+.lb {
+    font-family: 'Londrina Solid', cursive;
+    font-size: 60px;
+}
+
+.ptsans {
+    font-family: 'PT Sans', sans-serif;
+    color: 151c3b;
+}
+
+.nimg {
+    width: 500px;
+}
+
+#ff {
+    margin-top: 130px;
+    text-align: left;
+}
+
+#sc {
+    font-size: 20px;
+    color: #fe500c;
+    text-decoration: none;
+}
+
+#xx {
+    font-family: 'Londrina Solid', cursive;
+    text-align: left;
+    font-size: 80px;
+}
+
+#xxx {
+    font-family: 'PT Sans', sans-serif;
+    color: 151c3b;
+    text-align: left;
+}
